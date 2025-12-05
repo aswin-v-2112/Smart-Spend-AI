@@ -1,0 +1,7 @@
+{
+  "name": "SpendSmart AI",
+  "description": "A full-featured expense tracker with AI-powered insights and natural language expense entry. Features simulated authentication, persistent local storage, interactive charts, and Gemini-powered financial assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
